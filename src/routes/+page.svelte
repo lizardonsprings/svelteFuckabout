@@ -3,7 +3,7 @@
 </script>
 
 <svelte:head>
-	<title>Sveltekit Auth Starter</title>
+	<title>SKELETON</title>
 	<meta
 		name="description"
 		content="Sveltekit Auth Starter - An open source auth starter project utilizing lucia-auth, skeleton ui, prisma and sveltekit."
@@ -18,7 +18,7 @@
 				</div>
 			</div>
 			<div class="flex flex-row justify-center items-center mb-4">
-				<h2>Sveltekit Auth Starter</h2>
+				<h2>OH HI MY NAMES TERRY AND I SHAT IN MY FUCKIN TROUSERS</h2>
 			</div>
 
 			<hr class="!border-t-2 mt-2 mb-6" />

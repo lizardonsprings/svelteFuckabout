@@ -4,6 +4,7 @@ import { auth } from '$lib/server/lucia';
 import { userSchema } from '$lib/config/zod-schemas';
 import { sendVerificationEmail } from '$lib/config/email-messages';
 
+
 const signUpSchema = userSchema.pick({
 	firstName: true,
 	lastName: true,
